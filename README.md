@@ -10,6 +10,10 @@ Some boring stuff, including
    
    NB Sheet2 is a working area.
    
-   TODO make it generic for N * N squares.
+   TODO
+   
+   make it generic for N * N squares.
+   
+   detect ill-defined puzzles and stop.
    
 2. ...
